@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Thu Jul 05 12:57:32 IST 2018
+threads=1
+total=11000
+LoginIndNav.story=11000
+threadAverage=11000

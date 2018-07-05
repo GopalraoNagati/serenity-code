@@ -1,0 +1,12 @@
+<story path="LoginIndNav.story" title="">
+<narrative keyword="Narrative:">
+  <inOrderTo keyword="In order to">help Visitors Access Various Features of the Pigeon Site</inOrderTo>
+  <asA keyword="As a">Super Administrator</asA>
+  <iWantTo keyword="I want to">Log into Pigeon by giving valid Credentials</iWantTo>
+</narrative>
+<scenario keyword="Scenario:" title="Login">
+<step outcome="successful">Given The user is on GmailLogin Pop Up</step>
+<step outcome="successful">When The Userenters fields Valid UserNmae and Password</step>
+<step outcome="successful">Then The page Redirected to Home page</step>
+</scenario>
+</story>
